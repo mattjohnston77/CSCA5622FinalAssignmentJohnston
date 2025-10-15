@@ -1,0 +1,101 @@
+age,sex,size,breed_primary,color_primary,fixed,house_trained,shots_current,special_needs,status
+Adult,Male,Large,Bulldog,Tricolor,True,True,True,True,not_adopted
+Senior,Male,Extra Large,Golden Retriever,Tricolor,True,True,True,False,not_adopted
+Young,Female,Extra Large,Pit Bull Terrier,Golden,True,True,True,False,not_adopted
+Adult,Female,Extra Large,Australian Shepherd,Brindle,True,False,True,False,not_adopted
+Adult,Male,Large,Chihuahua,White,True,True,True,False,not_adopted
+Young,Female,Medium,Poodle,Brown,True,False,True,True,not_adopted
+Young,Male,Large,Dachshund,Black,True,False,True,False,not_adopted
+Young,Female,Small,Boston Terrier,Brown,True,True,False,False,not_adopted
+Young,Female,Medium,Golden Retriever,Gray,True,True,False,False,not_adopted
+Adult,Female,Small,Poodle,Gray,False,True,False,False,not_adopted
+Young,Female,Large,Bulldog,White,False,False,True,True,not_adopted
+Adult,Female,Large,Poodle,Tricolor,True,True,True,False,not_adopted
+Adult,Male,Extra Large,Golden Retriever,Tan,False,True,True,False,not_adopted
+Young,Male,Medium,Dachshund,Brindle,True,False,True,False,not_adopted
+Adult,Male,Extra Large,Rottweiler,Black,True,True,False,False,not_adopted
+Young,Male,Small,Mixed Breed,Gray,True,True,True,False,not_adopted
+Adult,Female,Small,Beagle,Golden,False,True,False,False,not_adopted
+Senior,Male,Large,Pit Bull Terrier,Black,True,True,False,False,not_adopted
+Adult,Female,Large,Poodle,Tan,True,True,True,False,not_adopted
+Adult,Female,Extra Large,Poodle,Golden,True,False,False,False,not_adopted
+Young,Male,Small,Chihuahua,Black,False,True,False,False,not_adopted
+Senior,Male,Extra Large,Pit Bull Terrier,Black,True,True,True,False,not_adopted
+Adult,Male,Extra Large,Bulldog,Tricolor,True,False,True,False,not_adopted
+Adult,Female,Large,Australian Shepherd,Tricolor,False,True,True,True,not_adopted
+Young,Female,Large,Mixed Breed,White,False,False,True,True,not_adopted
+Adult,Female,Extra Large,Rottweiler,Brown,False,False,True,False,not_adopted
+Adult,Female,Medium,Labrador Retriever,Brindle,True,False,True,False,not_adopted
+Young,Male,Extra Large,Siberian Husky,Gray,False,False,True,False,not_adopted
+Adult,Female,Large,Jack Russell Terrier,Tricolor,True,False,False,False,not_adopted
+Adult,Female,Extra Large,Jack Russell Terrier,Tan,True,True,True,True,not_adopted
+Senior,Female,Medium,Labrador Retriever,Tricolor,False,True,True,False,not_adopted
+Adult,Female,Extra Large,Golden Retriever,Brindle,False,True,True,False,not_adopted
+Senior,Male,Medium,Dachshund,Tan,False,True,False,False,not_adopted
+Senior,Male,Medium,Pit Bull Terrier,Golden,True,False,True,False,not_adopted
+Young,Male,Extra Large,Shih Tzu,Tricolor,True,False,False,False,not_adopted
+Senior,Female,Small,Chihuahua,Tricolor,True,True,True,False,not_adopted
+Adult,Male,Small,Pit Bull Terrier,Tricolor,True,True,True,False,not_adopted
+Adult,Female,Medium,Boston Terrier,Tricolor,True,True,True,False,not_adopted
+Senior,Male,Extra Large,Pit Bull Terrier,Black,False,True,True,False,not_adopted
+Senior,Female,Small,Border Collie,Golden,True,True,True,False,not_adopted
+Young,Female,Extra Large,Cocker Spaniel,Brindle,True,True,True,False,not_adopted
+Adult,Male,Medium,Shih Tzu,Golden,True,True,True,False,not_adopted
+Young,Male,Extra Large,Siberian Husky,Golden,True,True,True,False,not_adopted
+Adult,Male,Large,Golden Retriever,Golden,True,False,True,True,not_adopted
+Adult,Male,Extra Large,Chihuahua,Brown,False,False,True,False,not_adopted
+Adult,Female,Small,Yorkshire Terrier,Brown,True,True,True,False,not_adopted
+Young,Female,Small,Rottweiler,Tricolor,True,False,True,False,not_adopted
+Young,Male,Small,Dachshund,Golden,True,True,False,False,not_adopted
+Senior,Female,Medium,Australian Shepherd,Gray,True,True,True,False,not_adopted
+Young,Female,Small,Mixed Breed,Brown,True,True,False,False,not_adopted
+Adult,Male,Extra Large,Australian Shepherd,Tricolor,False,False,False,False,not_adopted
+Senior,Female,Extra Large,Boston Terrier,White,True,True,True,False,not_adopted
+Adult,Male,Small,Golden Retriever,Brown,True,True,True,False,not_adopted
+Adult,Male,Small,Golden Retriever,Gray,False,True,False,False,not_adopted
+Adult,Female,Small,Boston Terrier,Gray,False,True,True,False,not_adopted
+Adult,Female,Small,Poodle,Tricolor,False,False,True,False,not_adopted
+Senior,Female,Large,Chihuahua,Golden,True,False,True,True,not_adopted
+Young,Male,Medium,Jack Russell Terrier,Tricolor,True,True,True,True,not_adopted
+Adult,Male,Large,Siberian Husky,Black,True,False,False,False,not_adopted
+Young,Male,Small,Labrador Retriever,Golden,True,False,True,False,not_adopted
+Adult,Male,Small,Boxer,Brown,True,True,True,False,not_adopted
+Senior,Female,Large,Siberian Husky,Black,False,False,True,True,not_adopted
+Young,Female,Medium,Poodle,Brown,False,True,True,False,not_adopted
+Young,Female,Small,Pit Bull Terrier,Tan,False,False,False,False,not_adopted
+Adult,Female,Large,Cocker Spaniel,Gray,True,False,True,False,not_adopted
+Adult,Male,Small,Boston Terrier,Golden,True,False,True,False,not_adopted
+Adult,Male,Large,Border Collie,Golden,False,True,True,False,not_adopted
+Adult,Male,Medium,Siberian Husky,Gray,False,True,False,False,not_adopted
+Senior,Female,Small,Mixed Breed,White,True,True,True,False,not_adopted
+Young,Male,Small,Labrador Retriever,Tricolor,False,False,False,True,not_adopted
+Senior,Female,Extra Large,Golden Retriever,Brown,True,True,True,False,not_adopted
+Senior,Male,Small,Mixed Breed,Tricolor,True,True,True,False,not_adopted
+Senior,Female,Extra Large,Border Collie,Tan,True,False,True,False,not_adopted
+Young,Female,Medium,Boston Terrier,White,True,True,True,False,not_adopted
+Senior,Male,Small,Bulldog,Gray,False,True,False,False,not_adopted
+Adult,Female,Small,Labrador Retriever,Brindle,True,True,False,False,not_adopted
+Senior,Male,Medium,Labrador Retriever,Gray,True,False,True,False,not_adopted
+Senior,Female,Small,Dachshund,Black,False,False,True,False,not_adopted
+Adult,Female,Extra Large,Golden Retriever,Brindle,True,True,True,False,not_adopted
+Young,Male,Medium,Siberian Husky,Gray,True,False,True,False,not_adopted
+Young,Male,Small,Dachshund,Brown,False,False,True,False,not_adopted
+Adult,Female,Medium,Yorkshire Terrier,White,True,False,True,False,not_adopted
+Senior,Female,Medium,Boxer,White,True,False,True,False,not_adopted
+Young,Female,Extra Large,Chihuahua,Brown,True,True,True,False,not_adopted
+Senior,Male,Large,Australian Shepherd,Brindle,True,False,True,False,not_adopted
+Young,Male,Extra Large,Labrador Retriever,White,True,True,True,True,not_adopted
+Young,Female,Extra Large,Boxer,Gray,True,True,True,False,not_adopted
+Adult,Female,Small,Dachshund,Brown,True,True,True,False,not_adopted
+Adult,Female,Large,Australian Shepherd,Gray,True,False,True,False,not_adopted
+Adult,Male,Large,Dachshund,Brown,False,True,True,True,not_adopted
+Adult,Female,Large,Rottweiler,White,False,True,True,True,not_adopted
+Adult,Male,Large,Yorkshire Terrier,Tricolor,True,True,True,False,not_adopted
+Senior,Female,Medium,Siberian Husky,Black,False,True,True,False,not_adopted
+Young,Male,Extra Large,Yorkshire Terrier,Tan,True,False,True,True,not_adopted
+Adult,Male,Medium,Jack Russell Terrier,Brown,True,True,True,False,not_adopted
+Adult,Male,Medium,Beagle,Tan,True,True,True,False,not_adopted
+Senior,Female,Large,Poodle,Brindle,True,True,True,False,not_adopted
+Young,Female,Extra Large,Bulldog,Golden,True,False,True,False,not_adopted
+Adult,Male,Medium,Yorkshire Terrier,White,True,True,True,True,not_adopted
+Adult,Male,Extra Large,Pit Bull Terrier,Golden,True,True,True,False,not_adopted
